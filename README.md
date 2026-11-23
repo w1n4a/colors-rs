@@ -1,4 +1,4 @@
-# color-rs
+# colors-rs
 Simple color package for rust.
 
 ### Colors
